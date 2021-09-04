@@ -1,23 +1,12 @@
-db.sqlite3
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
 
-# virtual environment
-env/
-/.env
-.env
-
-# Django
-*.log
-*.pot
-*.pyc
-*__pycache__
-
-*.idea
-=======
-.idea
-
-# *media
-*.DS_Store
-/.vscode
-/__pycache__
-
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
 
